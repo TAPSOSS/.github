@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: tapsOSS Contribution Guidelines
+    url: https://github.com/TAPSOSS/ContributionGuidelines/blob/main/CONTRIBUTING.md
+    about: Read contribution rules and expectations
